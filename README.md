@@ -10,6 +10,6 @@ Para executar o código instale a biblioteca necessaria com o comando: **pip ins
 Para rodar execute o arquivo `<app.py>`
 ```
 python app.py
-``.
+```
 
 
